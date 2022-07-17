@@ -64,6 +64,7 @@ public class baseBallGame {
                 }
             }
         }
+
         System.out.println(sNum + " 스트라이트 " + bNum + " 볼 " + nNum + " 아웃");
     }
 
